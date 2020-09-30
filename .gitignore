@@ -1,0 +1,15 @@
+MANIFEST
+build
+dist
+_build
+data
+*.py[co]
+__pycache__
+data/
+.ipynb_checkpoints
+.DS_Store
+.coverage
+.pytest_cache
+src
+.vscode/
+
